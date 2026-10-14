@@ -51,7 +51,8 @@ Here are photos of Calculator PCBs and assembled SR-10 Calculator Clone.
 
  <img width="480" height="640" alt="IMG_5973" src="https://github.com/user-attachments/assets/109287c2-5032-456c-94f2-7c19719d8998" />
 
- 
+ <img width="352" height="640" alt="IMG_5972" src="https://github.com/user-attachments/assets/291f1ea1-3d16-4d49-8316-08b99845ec55" />
+
 After finishing building my Clone SR-10 I powered up to see if it will pass smoke test and it passed with flying colors!
 
 Now I needed to test the hardware if all is in working order. As a first step I uploaded Arduino Uno bootloader. Then I started to work on a Arduino test sketch.  After making good progress on test code I decided that this project was a great one for VIBE Coding and for my dear friend Claude Code! 😊
