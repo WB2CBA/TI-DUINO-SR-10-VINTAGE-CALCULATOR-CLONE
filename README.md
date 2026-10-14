@@ -29,6 +29,8 @@ So, the work began to create a clone of TEXAS INSTRUMENTS SR-10 with new tech. I
 
 
 I started with the schematic of SR-10 Clone, Here is my SR-10 clone schematic:
+<img width="1704" height="1069" alt="TI-DUINO SR-10 CALCULATOR SCHEMATIC" src="https://github.com/user-attachments/assets/c018fcbf-84e4-4454-9d1f-e1aeeb54ffe9" />
+
  
 I used Chinese TM1640 16 Digit 7 segment led driver. It is cheap and readily available. For 24 key keyboard I chose 6 by 4 matrix. Original SR10 has 23 keys and in my keyboard 1 key to spare which I used it to check battery level.
 
