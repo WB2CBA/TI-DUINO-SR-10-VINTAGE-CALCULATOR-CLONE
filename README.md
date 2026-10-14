@@ -11,7 +11,7 @@ http://www.datamath.org/Sci/WEDGE/SR-10-BK.htm
 
 It wasn’t anything fancy or special when compared to todays sophisticated Calculators. Though it has a special place in my memories and in my heart!
 
-I started my Civil Engineering training in college in 1980! Yes, I am a relic! :) In Turkey in 1980’s a scientific calculator was a luxury. My humble first year passed with Slide rule and basic 4 operand calculator! 
+I started my Civil Engineering education in college in 1980! Yes, I am a relic! :) In Turkey in 1980’s a scientific calculator was a luxury. My humble first year passed with Slide rule and basic 4 operand calculator! 
 
 In the beginning of my second year, my father gifted me a Texas Instruments SR10 where SR stands for Slide Rule Calculator, Grand father of modern scientific calculators. I loved it! 
 
@@ -55,7 +55,7 @@ Here are photos of Calculator PCBs and assembled SR-10 Calculator Clone.
 
 After finishing building my Clone SR-10 I powered up to see if it will pass smoke test and it passed with flying colors!
 
-Now I needed to test the hardware if all is in working order. As a first step I uploaded Arduino Uno bootloader. Then I started to work on a Arduino test sketch.  After making good progress on test code I decided that this project was a great one for VIBE Coding and for my dear friend Claude Code! 😊
+Now I needed to test the hardware if all is in working order. As a first step I uploaded Arduino Uno bootloader. Then I started to work on a Arduino test sketch.  After making some progress on test code I decided that this project was a great for VIBE Coding and for my dear friend Claude Code! 😊
 
 So, I started to chat with Claude! Below is my full exchange with Claude and our process of developing a working TI-SR-10 Clone Calculator Firmware.
 
@@ -129,7 +129,7 @@ If you want to keep going, the next step could be the SR-10 calculation logic (e
 
 Barb - I am ready for SR-10 calculator Clone to be alive and running. go ahead with the calculator sketch please
 
-(Claude starts it’s thinking/processing/evaluating process for 3.5 minutes this time before replying)
+CLAUDE - (Claude starts it’s thinking/processing/evaluating process for 3.5 minutes this time before replying)
 
 Time to build the SR-10 firmware. A plain float on the ATmega only gives about 7 digits, so I’ll write a proper 13-digit decimal (BCD) math core. That way 1÷3×3 gives exactly 1 and 0.1+0.2 gives exactly 0.3. I’ll test the math against Python’s decimal library before you load it.
 
