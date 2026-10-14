@@ -21,7 +21,7 @@ Anyway, that TI SR-10 had a special place after my college education in my profe
 
 That TI SR-10 never left my memories.
 
-Late September of this year I was searching for a LED dot matrix Display on EBAY and I came across a BUBBLE type LED 12digit display on sale for 14.95$! The same type of display that was in TI SR-10! With an impulse buy I got it! 😊
+Late August of this year I was searching for a LED dot matrix Display on EBAY and I came across a BUBBLE type LED 12digit display on sale for 14.95$! The same type of display that was in TI SR-10! With an impulse buy I got it! 😊
 
 The display arrived and I tested to see if it is in working order and sure it was in great shape and all segments of all digits working!
 
