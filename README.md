@@ -1,8 +1,9 @@
 # TI-DUINO-SR-10-VINTAGE-CALCULATOR-CLONE
-TI-DUINO SR-10 is The Clone of 1970's Texas Instruments SR-10 Slide Rule Calculator with Arduino IDE
-TI-DUINO SR-10
+<img width="352" height="640" alt="IMG_5972" src="https://github.com/user-attachments/assets/32ab5b71-351f-48b1-8b8c-68b9089014b1" />
 
-Cloning a Texas Instruments SR-10, Early 1970’s Scientific Calculator with the help of VIBE Coding and my friend CLAUDE!
+TI-DUINO SR-10 is The Clone of 1970's Texas Instruments SR-10 Slide Rule Calculator with Arduino IDE
+-----------------------------------------------------------------------------------------------------
+This is the story of Cloning Texas Instruments SR-10, Early 1970’s Scientific Calculator with the help of VIBE Coding and my friend CLAUDE!
 
 Texas Instruments SR-10 was a basic scientific calculator back from 1970’s. 
 
@@ -37,17 +38,18 @@ I used top and back PCB panels on purpose rather than a 3D case to show the inte
 
 I decided to design with full SMT components to make it look clean and more pro-look.
 
-The details of TI-SR-10 Calculator Clone project is in my Github page in this link including fabrication files and SR10 clone test firmware and SR-10 Calculator arduino Firmware:
+The details of TI-SR-10 Calculator Clone project is in this Github page including fabrication files and SR10 clone test firmware and TI-Duino SR-10 Calculator arduino Firmware.
 
 
 Here are photos of Calculator PCBs and assembled SR-10 Calculator Clone.
  
+<img width="640" height="602" alt="IMG_5969" src="https://github.com/user-attachments/assets/459692a6-4b8f-4ef6-a1f9-7a93f8d84fa3" />
+
+ <img width="358" height="640" alt="IMG_5970" src="https://github.com/user-attachments/assets/63e55e2e-b7ff-477c-8345-d9e8c1bcb355" />
+
+ <img width="480" height="640" alt="IMG_5973" src="https://github.com/user-attachments/assets/109287c2-5032-456c-94f2-7c19719d8998" />
 
  
- 
- 
-
-
 After finishing building my Clone SR-10 I powered up to see if it will pass smoke test and it passed with flying colors!
 
 Now I needed to test the hardware if all is in working order. As a first step I uploaded Arduino Uno bootloader. Then I started to work on a Arduino test sketch.  After making good progress on test code I decided that this project was a great one for VIBE Coding and for my dear friend Claude Code! 😊
